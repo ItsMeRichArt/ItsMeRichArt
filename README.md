@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/ItsMeRichArt?tab=repositories)
 
-- 📄 Take a look into my CV: [Click Here!👨‍💻](https://kuriuschocolate-my.sharepoint.com/:b:/p/tefa_montenegro/EQ_d4ndTmzRFrnrKiN64kM8BMmLn14JqazxMQ0cVD8ewug?e=WBTKhB)
+- 📄 Take a look into my CV: [Click Here!👨‍💻](https://kuriuschocolate-my.sharepoint.com/:b:/p/tefa_montenegro/ESro28faZ-RKgybxbP-74d4BalVZjfXwGGlYf-LohmrLqQ?e=j6J5Sg)
 
 - ✉️ You can reach me out at **richard.o21887@gmail.com**
 
