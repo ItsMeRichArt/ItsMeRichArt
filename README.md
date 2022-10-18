@@ -11,7 +11,7 @@
 
 - 🫡 I’m making a career path change to become a **software developer**
 
-- 🤓 My technical skill set are: 
+- 🤓 My technical skills set are: 
     - **NodeJS, Typescript, Express, Jest, Type ORM.**
     - **Java, Spring, JUnit.**
     - **Python, Flask, JSON Web Token (JWT), SQLAlchemy ORM.**
@@ -35,7 +35,7 @@
 - 💬 English - C2.
 - 💬 French - B1.
 
-- ⚡ Fun fact: 
+- ⚡ Fun facts: 
     - I'm a professional musician and producer (I have a bachelor in contemporary music)
     - I play the saxophone (all of them)
     - I have a professional music studio called "Colorful house studio"
