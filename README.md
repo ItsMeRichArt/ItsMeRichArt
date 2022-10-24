@@ -9,7 +9,7 @@
   </a>
 
 
-- 🫡 I’m making a career path change to become a **software developer**
+- 🫡 I’m a highly skilled and motivated **software developer, project leader and scrum master**
 
 - 🤓 My technical skills set are: 
     - **NodeJS, Typescript, Express, Jest, Type ORM.**
