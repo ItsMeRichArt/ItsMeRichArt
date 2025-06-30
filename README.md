@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Orellana</h1>
-<h2 align="center">Full-stack developer (back-end specialized) | Creative project leader & Positive attitude scrum master</h2>
+<h2 align="center">Senior Software Engineer | AI prompt specialist | Typescript/NodeJs | Python</h2>
 <h3 align="center">A tech guy and musician from Quito - Ecuador 🇪🇨</h3>
 
 <p align="center"> 
