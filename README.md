@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/ItsMeRichArt?tab=repositories)
 
-- 📄 Take a look into my CV: [Click Here!👨‍💻](https://kuriuschocolate-my.sharepoint.com/:b:/p/tefa_montenegro/ESro28faZ-RKgybxbP-74d4BalVZjfXwGGlYf-LohmrLqQ?e=j6J5Sg)
+- 📄 Take a look into my CV: [Click Here!👨‍💻][Resume-Richard-Orellana.pdf](https://github.com/user-attachments/files/20983796/Resume-Richard-Orellana.pdf)
 
 - ✉️ You can reach me out at **richard.o21887@gmail.com**
 
